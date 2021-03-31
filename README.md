@@ -6,7 +6,7 @@
   <a href="#books-resources">Resources</a>
 </p>
 
-> This workshop is designed to get you familiar with GitHub Advanced Security (GHAS) so that you can better understand how to use it in your own repositories. You'll use GitHub Advanced Security features like code scanning and secret scanning to detect vulnerabilities, and see how to use automation to detect these issues before they reach production.
+> This workshop is designd to get you familiar with GitHub Advanced Security (GHAS) so that you can better understand how to use it in your own repositories. You'll use GitHub Advanced Security features like code scanning and secret scanning to detect vulnerabilities, and see how to use automation to detect these issues before they reach production.
 
 ## :mega: Prerequisites
 
